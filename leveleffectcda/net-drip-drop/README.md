@@ -1,6 +1,6 @@
 # Drip Drop
 
-Category: Networking
+Category: Networking\n
 Difficulty: Hard (Hardest? It was one of the 350 point questions)
 
 I didn't actually finish this one, but once I saw the solution I knew I needed to write up at least what I did make it through so you could see where I was going. I was on the right path, I just didn't manage to make the final leap.
